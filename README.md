@@ -32,11 +32,11 @@ Python script for illustrating Convolutional Neural Network (ConvNet)
 
 ## [NNSVG](http://alexlenail.me/NN-SVG/LeNet.html)
 
-![AlexNet style](https://i.stack.imgur.com/Q0xOe.png)
+![AlexNet style](https://i.sstatic.net/Q0xOe.png)
 
-![enter image description here](https://i.stack.imgur.com/K9lmg.png)
+![enter image description here](https://i.sstatic.net/K9lmg.png)
 
-![enter image description here](https://i.stack.imgur.com/DlJ8J.png)
+![enter image description here](https://i.sstatic.net/DlJ8J.png)
 
 ## [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
 
@@ -50,21 +50,21 @@ Latex code for drawing neural networks for reports and presentation. Have a look
 
 TensorBoard’s **Graphs dashboard** is a powerful tool for examining your TensorFlow model.
 
-![enter image description here](https://i.stack.imgur.com/zJHpV.png)
+![enter image description here](https://i.sstatic.net/zJHpV.png)
 
 ## [Caffe](https://github.com/BVLC/caffe/blob/master/python/caffe/draw.py)
 
 In Caffe you can use [caffe/draw.py](https://github.com/BVLC/caffe/blob/master/python/caffe/draw.py) to draw the NetParameter protobuffer:
 
-![enter image description here](https://i.stack.imgur.com/5Z1Cb.png)
+![enter image description here](https://i.sstatic.net/5Z1Cb.png)
 
 ## [Matlab](http://www.mathworks.com/help/nnet/ref/view.html)
 
-![enter image description here](https://i.stack.imgur.com/rPpfa.png)
+![enter image description here](https://i.sstatic.net/rPpfa.png)
 
 ## [Keras.js](https://transcranial.github.io/keras-js/#/inception-v3)
 
-![enter image description here](https://i.stack.imgur.com/vEfTv.png)
+![enter image description here](https://i.sstatic.net/vEfTv.png)
 
 ## [keras-sequential-ascii](https://github.com/stared/keras-sequential-ascii/)
 
@@ -142,19 +142,19 @@ A library for [Keras](https://keras.io/) for investigating architectures and par
 
 The [keras.utils.vis_utils module](https://keras.io/visualization/) provides utility functions to plot a Keras model (using graphviz)
 
-![enter image description here](https://i.stack.imgur.com/o17GY.png)
+![enter image description here](https://i.sstatic.net/o17GY.png)
 
 ## [Conx](https://conx.readthedocs.io/en/latest/index.html)
 
 The Python package `conx` can visualize networks with activations with the function `net.picture()` to produce SVG, PNG, or PIL Images like this:
 
-![enter image description here](https://i.stack.imgur.com/nhHjO.png)
+![enter image description here](https://i.sstatic.net/nhHjO.png)
 
 ## [ENNUI](https://math.mit.edu/ennui/)
 
 Working on a drag-and-drop neural network visualizer (and more). Here's an example of a visualization for a LeNet-like architecture.
 
-![A visualization of a LeNet-like architecture](https://i.stack.imgur.com/pRLeG.png)
+![A visualization of a LeNet-like architecture](https://i.sstatic.net/pRLeG.png)
 
 ## NNet - R Package
 
@@ -165,7 +165,7 @@ data(infert, package="datasets")
 plot(neuralnet(case~parity+induced+spontaneous, infert))
 ```
 
-![neuralnet](https://i.stack.imgur.com/yyftd.png)
+![neuralnet](https://i.sstatic.net/yyftd.png)
 
 ## [GraphCore](https://www.graphcore.ai/posts/what-does-machine-learning-look-like)
 
@@ -191,11 +191,11 @@ TensorSpace is a neural network 3D visualization framework built by TensorFlow.j
 
 **[Tutorial](https://www.freecodecamp.org/news/tensorspace-js-a-way-to-3d-visualize-neural-networks-in-browsers-2c0afd7648a8/)**
 
-![enter image description here](https://i.stack.imgur.com/ekF5v.png)
+![enter image description here](https://i.sstatic.net/ekF5v.png)
 
 ## [Netscope CNN Analyzer](http://dgschwend.github.io/netscope/quickstart.html)
 
-![enter image description here](https://i.stack.imgur.com/VVDsg.png)
+![enter image description here](https://i.sstatic.net/VVDsg.png)
 
 ## [Monial](https://github.com/mlajtos/moniel)
 
